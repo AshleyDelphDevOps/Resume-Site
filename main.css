@@ -35,7 +35,6 @@ body {
 
 ol, ul {
 	list-style: none;
-    text-align: left;
 }
 
 blockquote, q {
@@ -216,8 +215,8 @@ input, select, textarea {
         margin-bottom: 2em;
     }
 
-    ul {
-        justify-content: left;
+    .skill li{
+        display: inline-block;
     }
 
 /* Container */
